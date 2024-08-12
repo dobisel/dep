@@ -3,43 +3,12 @@
 AYOT Enhancement Proposals
 
 
-## TODO: Read first
+## Read first
 
-- [Conventions](/ayot/aep/issues)
-
-
-## Code of Conduct
+- [Conventions](ayot/aep/issues?labels=21)
 
 
-#### Bug Report
-
-Every bug report should consist of:
-
-- A short, inclusive and exclusive title.
-- Short description of what happened
-- Environment
-- Step-by-step guide to reproducing it again
-- *Optional* Any additional details which helps to better understanding the 
-  problem.
-
-
-#### Feature request
-
-- A short, inclusive and exclusive title.
-- User story
-- BDD scenario
-- Wireframe or GUI prototype
-- *Optional* Any additional details.
-
-
-#### Question
-
-- A short, inclusive and exclusive title.
-- Environment
-- A cut and clean question detail.
-
-
-### Pull Request & Rebase
+### Contribution
 
 All contributers of a repository should first add their `ssh-key` to their 
 `settings->SSH/GPG Keys` and do this for contribution:
