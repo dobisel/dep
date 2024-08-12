@@ -61,5 +61,6 @@ git push origin master
 
 Use `--force` if you know what you are doing.
 
-> **_NOTE_**:  Git's output messages is the most favourit cookbook for git. 
+> **_NOTE_**  
+> Git's output messages is the most favourit cookbook for git. 
   read them carefully.
