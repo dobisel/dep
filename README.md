@@ -5,6 +5,8 @@ AYOT Enhancement Proposals
 
 ## Read first
 
+- [Power of plain text](https://wiki.c2.com/?PowerOfPlainText)
+- [Unix Way](https://wiki.c2.com/?UnixWay)
 - [Conventions](ayot/aep/issues?labels=21)
 
 
