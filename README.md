@@ -1,13 +1,13 @@
-# AEP
+# DEP
 
-AYOT Enhancement Proposals
+Dobisel Enhancement Proposals
 
 
 ## Read first
 
 - [Power of plain text](https://wiki.c2.com/?PowerOfPlainText)
 - [Unix Way](https://wiki.c2.com/?UnixWay)
-- [Conventions](https://dev.ayot.net/ayot/aep/issues?labels=21)
+- [Conventions]()
 
 
 ### Contribution
@@ -33,13 +33,14 @@ git remote add upstream <main-remote>
 
 - Make your changes and commit the changeset. Then push changes to your 
   forked repository. 
-- Every commit message chould contains issue numbers(s), i.e
+- Every commit message must contains issue numbers(s), i.e
   * `Fix: Prevent login when user is deactivated. closes #78.`
-  * `Fix: Foo problem. closes #65 and also closes ayot/bar#29.`
+  * `Fix: Foo problem. closes #65 and also closes repo/bar#29.`
   * `Feature: Create /tokens REST API. needs more tests #74`
 
 - Make pull request from your local branch to original repository. 
-- Pull request title should describe content of the changeset.
+- Pull request title should be inclusive, exclusive and describe content 
+  of the changeset.
 
 For update your repositories with upstream:
 
